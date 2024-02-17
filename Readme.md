@@ -1,4 +1,4 @@
-![Header](./Blue Simple LinkedIn Banner.mp4)
+![Header](./githubHeader.png)
 
 <h1 align="center">Hi 👋, I'm Devesh Chandra</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
